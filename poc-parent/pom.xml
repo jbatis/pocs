@@ -15,6 +15,7 @@
     <maven.compiler.target>11</maven.compiler.target> 
     <spring-boot.version>2.7.14</spring-boot.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding> 
+    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <postgres.version>42.5.0</postgres.version>    
     <java-validation.version>2.0.1.Final</java-validation.version> 
     <!-- <dockerfile-maven-version>1.4.13</dockerfile-maven-version> -->
