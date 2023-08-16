@@ -18,6 +18,7 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <postgres.version>42.5.0</postgres.version>    
     <java-validation.version>2.0.1.Final</java-validation.version> 
+    <spring-cloud-dependencies.version>2021.0.7</spring-cloud-dependencies.version>
     <!-- <dockerfile-maven-version>1.4.13</dockerfile-maven-version> -->
   </properties>
 
